@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Formularz</string>
+    <string-array name="klasa">
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+    </string-array>
+</resources>
